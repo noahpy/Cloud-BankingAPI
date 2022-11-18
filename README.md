@@ -26,7 +26,7 @@ This will start a server on your computer. Take the URL from the output and use 
 
 ### System Decomposition:
 
-![ComponentDiagram(1).png](Banking-API%20Documentation%20d5b18290abca4997b5431ce0b42c468a/ComponentDiagram(1).png)
+![ComponentDiagram(1).png](media/ComponentDiagram(1).png)
 
 ## Details:
 
@@ -183,7 +183,7 @@ else:
 
 Database Structure:
 
-![drawSQL-export-2022-10-29_01 42.png](Banking-API%20Documentation%20d5b18290abca4997b5431ce0b42c468a/drawSQL-export-2022-10-29_01_42.png)
+![drawSQL-export-2022-10-29_01 42.png](media/drawSQL-export-2022-10-29_01_42.png)
 
 ## Next Goals:
 
