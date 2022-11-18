@@ -11,9 +11,9 @@ from logging import exception
 class DataFetcher:
 
     # NOTE: These are not truly private attributes!
-    __HOST = 'noah-banking.cjcipvue9uv5.us-east-1.rds.amazonaws.com'
+    __HOST = 'deleted'
     __USER = 'admin'
-    __PASSWORD = 'noahadmin'
+    __PASSWORD = 'admin'
     __DATABASE = 'banking'
 
 

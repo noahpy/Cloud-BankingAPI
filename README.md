@@ -22,6 +22,8 @@ Output:
 
 This will start a server on your computer. Take the URL from the output and use the method specified below to get started!
 
+NOTE: The AWS Database Instance is currently deleted for safety reasons. This is why this program will **not** run just by cloning it. Instead you could create a MySQL Database with the given structure and specify your host and password in 'src/business/dataQuery.py' to run this program. Message me for any questions! :)
+
 ## System Design:
 
 ### System Decomposition:
